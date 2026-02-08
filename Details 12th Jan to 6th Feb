@@ -1,0 +1,9 @@
+The internship in Persistent Systems started on 12th January 2026, which was the official on-boarding day. During the on-boarding I was provided with my Access and ID Card, Devices and Credentials for the duration of this internship. 
+Week 1 consisted of getting alloted to my Reporting manager Mr.Jagath M and getting assigned to a project. 
+I have been assigned the task of building a conversational AI system that is meant to assist with Level 1 interview. 
+Week 2 consisted of raising service requests for download rights of all the packages and softwares I require to build this project and then downloading said technologies along with building a flow chart of how the project would be built.
+After the approval of the proposed flow chat, Week 3 consisted of building each stage of the Conversational AI step by step while getting it verified by my Manager. 
+Week 4 consisted of Ticket raising for final required softwares and Implementing STT and TTS. 
+Technical Details:
+This entire project relies of Whisper STT and Coqui TTS integrated with Silero VAD which is responsible for the smooth flow of the AI system. 
+This system is built with the in house used AI integrated into this project on a service layer level such that the API KEY is not exposed on the front end, hence maintaining security protocals.
